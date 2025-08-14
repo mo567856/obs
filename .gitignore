@@ -1,0 +1,7 @@
+*.tmp
+*.lnk
+*.tmp~
+*.DS_Store
+desktop.ini
+~$*
+*.one
