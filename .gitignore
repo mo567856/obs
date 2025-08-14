@@ -1,7 +1,22 @@
-*.tmp
-*.lnk
-*.tmp~
-*.DS_Store
-desktop.ini
+# OneDrive sync junk
 ~$*
-*.one
+*.tmp
+*.temp
+*.lnk
+desktop.ini
+Thumbs.db
+
+# Obsidian personal settings
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/backlink.json
+.obsidian/app.json
+.obsidian/plugins/
+.obsidian/snippets/
+
+# OS-specific files
+.DS_Store
+
+# Backup folders
+*.bak
+*.backup
